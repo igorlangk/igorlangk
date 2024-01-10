@@ -1,4 +1,10 @@
-### Hi there 👋
+Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Me chamo Igor Langkammer
+=======================================================================================================================================
+
+Estudante de Defese Cibernética, me formo ainda em 2024. Iniciei minha jornada na programação com Python e, atualmente, me dedico ao estudo de JavaScript e Node.js.
+
+*   🌍  Atualmente em Linheres- ES
+*   ✉️  [igorlvdc@gmail.com](mailto:igorlvdc@gmail.com)
 
 <!--
 **igorlangk/igorlangk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
